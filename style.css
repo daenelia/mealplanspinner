@@ -1,0 +1,38 @@
+body {
+  color: #484848;
+  background: #ffe6cc;
+  font-family: Tahoma;
+  line-height: 1.5;
+  padding: .5em 2.5em 3em;
+}
+
+h1 {
+  color: #ffccff;
+}
+
+button {
+  color: white;
+  background: #cce5ff;
+  border: solid 1px white;
+  cursor: pointer;
+}
+
+div {
+
+}
+
+header{
+
+}
+
+nav {
+
+}
+
+footer{
+
+}
+
+#mealplan {
+
+}
