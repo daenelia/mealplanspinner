@@ -7,14 +7,16 @@ body {
 }
 
 h1 {
-  color: #ffccff;
+  color: #ff33ff;
 }
 
 button {
-  color: white;
+  color: #ff33ff;
   background: #cce5ff;
   border: solid 1px white;
   cursor: pointer;
+  padding: 0.5em;
+  font-size: 1.4em;
 }
 
 div {
@@ -33,6 +35,17 @@ footer{
 
 }
 
-#mealplan {
+ul{
 
+}
+
+li{
+  padding: 0.4em;
+  margin-top: 0.3em;
+  margin-bottom: 0.4em;
+}
+
+#mealplan {
+  border: solid 1px black;
+  padding: 2em;
 }
